@@ -1,0 +1,6 @@
+1.
+CNN can used where there is more data to be precessed since it's already using the GPU and also where the knowledge of the features is a bot unknown.
+Random Forests can be used where the user has more knowledge about the data.
+2.
+CNN may have an overfitting problem since it uses only one good model.
+Random Forests, on the other hand, use different models and that's why they have a less tendency of overfitting.
